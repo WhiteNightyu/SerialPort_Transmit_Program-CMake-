@@ -1,4 +1,4 @@
-# -CMake-
+# 串口通讯程序
 ！！！！！！投入实际使用需要删除或注释serialport.cpp文件中handleRead()函数中，//test code begin与// test code end之间的代码
 
 
