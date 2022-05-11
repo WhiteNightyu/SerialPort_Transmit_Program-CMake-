@@ -1,0 +1,8 @@
+/home/white/SerialPort_Transmit（CMake版）/build/CMakeFiles/rebuild_cache.dir
+/home/white/SerialPort_Transmit（CMake版）/build/CMakeFiles/edit_cache.dir
+/home/white/SerialPort_Transmit（CMake版）/build/MyLib/CMakeFiles/rebuild_cache.dir
+/home/white/SerialPort_Transmit（CMake版）/build/MyLib/CMakeFiles/edit_cache.dir
+/home/white/SerialPort_Transmit（CMake版）/build/MyLib/CMakeFiles/Mylib.dir
+/home/white/SerialPort_Transmit（CMake版）/build/src_code/CMakeFiles/rebuild_cache.dir
+/home/white/SerialPort_Transmit（CMake版）/build/src_code/CMakeFiles/edit_cache.dir
+/home/white/SerialPort_Transmit（CMake版）/build/src_code/CMakeFiles/work.dir
