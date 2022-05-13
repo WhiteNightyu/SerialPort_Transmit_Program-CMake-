@@ -1,6 +1,5 @@
 # 串口通讯程序
-  ！！！！！！投入实际使用需要删除或注释serialport.cpp文件中handleRead()函数中，//test code begin与// test code end之间的代码
-
+    ！！！！！！投入实际使用需要删除或注释serialport.cpp文件中handleRead()函数中，//test code begin与// test code end之间的代码
 
   该程序使用boost库搭建了用于linux与stm32进行串口通讯的代码框架
   boost库中具有可以用于串口传输与接收的函数
